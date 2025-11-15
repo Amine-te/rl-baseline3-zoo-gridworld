@@ -17,7 +17,6 @@ Trained the following RL algorithms on the environment:
 - **DQN**
 - **PPO**
 - **A2C**
-- (Add/remove as appropriate)
 
 Training was done through the RL-Baselines3-Zoo framework:
 ```bash
